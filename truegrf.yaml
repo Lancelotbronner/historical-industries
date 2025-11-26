@@ -1,4 +1,5 @@
-description: A new TrueGRF project based on FIRS Steeltown
+description: Industries and vehicles that evolve as history moves forward.
 license: GPL-2.0
+name: Ancient Industries
 type: industry
 version: 6
