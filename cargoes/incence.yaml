@@ -1,0 +1,17 @@
+abbreviation: IC
+available: true
+classes: 32
+colour: 62
+id: 27
+label: ICNS
+longName: incence
+name: Incence
+penaltyLength: 225
+penaltyLowerBound: 30
+price: 3906
+sprite:
+  filename: cargoes/incence.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16

@@ -1,0 +1,17 @@
+abbreviation: AG
+available: true
+classes: 8
+colour: 23
+id: 1
+label: SILV
+longName: silver
+name: Silver
+penaltyLength: 48
+penaltyLowerBound: 24
+price: 4482
+sprite:
+  filename: cargoes/silver.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

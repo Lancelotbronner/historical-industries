@@ -1,0 +1,17 @@
+abbreviation: SV
+available: false
+classes: 1
+colour: 240
+id: 9
+label: SLAV
+longName: slaves
+name: Slaves
+penaltyLength: 128
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/slaves.png
+  left: 0
+  top: 0
+unitName: Passengers
+weight: 1

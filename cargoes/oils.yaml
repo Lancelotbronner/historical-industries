@@ -1,0 +1,17 @@
+abbreviation: OL
+available: false
+classes: 64
+colour: 59
+id: 5
+label: OILS
+longName: oils
+name: Oils
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/oils.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16

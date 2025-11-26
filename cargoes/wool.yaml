@@ -1,0 +1,17 @@
+abbreviation: WL
+available: true
+classes: 32
+colour: 59
+id: 19
+label: WOOL
+longName: wool
+name: Wool
+penaltyLength: 32
+penaltyLowerBound: 2
+price: 6990
+sprite:
+  filename: cargoes/wool.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 10

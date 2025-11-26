@@ -1,0 +1,17 @@
+abbreviation: AR
+available: true
+classes: 16
+colour: 194
+id: 29
+label: AMBR
+longName: amber
+name: Amber
+penaltyLength: 235
+penaltyLowerBound: 20
+price: 5551
+sprite:
+  filename: cargoes/amber.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

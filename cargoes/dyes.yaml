@@ -1,0 +1,17 @@
+abbreviation: DY
+available: false
+classes: 2576
+colour: 139
+id: 8
+label: DYES
+longName: dyes
+name: Dyes
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/dyes.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16

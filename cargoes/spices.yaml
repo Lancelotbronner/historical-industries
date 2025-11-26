@@ -1,0 +1,17 @@
+abbreviation: SC
+available: true
+classes: 2576
+colour: 44
+id: 18
+label: SPIC
+longName: spices
+name: Spices
+penaltyLength: 32
+penaltyLowerBound: 2
+price: 7072
+sprite:
+  filename: cargoes/spices.png
+  left: 0
+  top: 0
+unitName: Bags
+weight: 10

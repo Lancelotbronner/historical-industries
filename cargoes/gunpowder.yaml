@@ -1,0 +1,17 @@
+abbreviation: GP
+available: true
+classes: 2832
+colour: 6
+id: 40
+label: GNPD
+longName: gunpowder
+name: Gunpowder
+penaltyLength: 239
+penaltyLowerBound: 16
+price: 5345
+sprite:
+  filename: cargoes/gunpowder.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16

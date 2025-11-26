@@ -1,0 +1,17 @@
+abbreviation: WN
+available: false
+classes: 32
+colour: 182
+id: 6
+label: WINE
+longName: wine
+name: Wine
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/wine.png
+  left: 0
+  top: 0
+unitName: Litres
+weight: 16

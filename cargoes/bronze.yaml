@@ -1,0 +1,17 @@
+abbreviation: BZ
+available: true
+classes: 16
+colour: 111
+id: 43
+label: BRNZ
+longName: bronze
+name: Bronze
+penaltyLength: 42
+penaltyLowerBound: 30
+price: 5674
+sprite:
+  filename: cargoes/bronze.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

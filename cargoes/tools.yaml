@@ -1,0 +1,17 @@
+abbreviation: TL
+available: false
+classes: 32
+colour: 5
+id: 11
+label: TOLS
+longName: tools
+name: Tools
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/tools.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16

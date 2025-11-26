@@ -1,0 +1,17 @@
+abbreviation: CM
+available: false
+classes: 32
+colour: 1
+id: 4
+label: CRMS
+longName: ceramics
+name: Ceramics
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/ceramics.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16

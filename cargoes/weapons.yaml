@@ -1,0 +1,17 @@
+abbreviation: WP
+available: false
+classes: 32
+colour: 20
+id: 13
+label: WPNS
+longName: weapons
+name: Weapons
+penaltyLength: 255
+penaltyLowerBound: 0
+price: 4112
+sprite:
+  filename: cargoes/weapons.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16

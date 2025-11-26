@@ -1,0 +1,17 @@
+abbreviation: TA
+available: true
+classes: 528
+colour: 207
+id: 28
+label: TEA_
+longName: tea
+name: Tea
+penaltyLength: 44
+penaltyLowerBound: 22
+price: 5592
+sprite:
+  filename: cargoes/tea.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16

@@ -1,0 +1,17 @@
+abbreviation: CU
+available: true
+classes: 16
+colour: 207
+id: 45
+label: COPR
+longName: copper
+name: Copper
+penaltyLength: 247
+penaltyLowerBound: 8
+price: 6126
+sprite:
+  filename: cargoes/copper.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

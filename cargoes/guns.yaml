@@ -1,0 +1,17 @@
+abbreviation: GN
+available: true
+classes: 32
+colour: 77
+id: 38
+label: GUNS
+longName: guns
+name: Guns
+penaltyLength: 191
+penaltyLowerBound: 64
+price: 3495
+sprite:
+  filename: cargoes/guns.png
+  left: 0
+  top: 0
+unitName: Crates
+weight: 16

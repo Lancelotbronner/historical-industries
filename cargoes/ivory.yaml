@@ -1,0 +1,17 @@
+abbreviation: IY
+available: true
+classes: 32
+colour: 14
+id: 49
+label: IVRY
+longName: ivory
+name: Ivory
+penaltyLength: 243
+penaltyLowerBound: 12
+price: 5181
+sprite:
+  filename: cargoes/ivory.png
+  left: 0
+  top: 0
+unitName: Items
+weight: 16

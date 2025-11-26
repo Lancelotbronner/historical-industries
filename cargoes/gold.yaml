@@ -1,0 +1,17 @@
+abbreviation: AU
+available: true
+classes: 8
+colour: 244
+id: 21
+label: GOLD
+longName: gold
+name: Gold
+penaltyLength: 215
+penaltyLowerBound: 40
+price: 6168
+sprite:
+  filename: cargoes/gold.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16

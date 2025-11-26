@@ -1,0 +1,17 @@
+abbreviation: SN
+available: true
+classes: 16
+colour: 11
+id: 39
+label: TIN_
+longName: tin
+name: Tin
+penaltyLength: 241
+penaltyLowerBound: 14
+price: 3947
+sprite:
+  filename: cargoes/tin.png
+  left: 0
+  top: 0
+unitName: Tonnes
+weight: 16
