@@ -1,0 +1,168 @@
+available: true
+callbacks: ''
+cargoAcceptance:
+- COAL
+- IRON
+cargoProduction:
+- TOLS
+- WPNS
+colour: 19
+fundCostMultiplier: 100
+id: 25
+layout:
+- - - 7
+    - -1
+    - 0
+    - 0
+  - - 6
+    - -1
+    - 1
+    - 1
+  - - 5
+    - -1
+    - 2
+    - -1
+  - - 6
+    - 4
+    - 3
+    - 8
+- - - 7
+    - -1
+    - 1
+    - 0
+  - - 6
+    - -1
+    - 1
+    - 0
+  - - 5
+    - -1
+    - 2
+    - -1
+  - - 6
+    - 4
+    - 3
+    - 8
+name: Blacksmith
+placement: anywhere
+probabilityInGame: 0
+probabilityMapGen: 5
+prospectChance: 0
+tiles:
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/2.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/1.png
+      left: -31
+      top: -89
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/4.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/3.png
+      left: -31
+      top: -89
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/6.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/5.png
+      left: -31
+      top: -89
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/8.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/7.png
+      left: -31
+      top: -89
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/10.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/9.png
+      left: -1
+      top: -89
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/12.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/11.png
+      left: -31
+      top: -89
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/14.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/13.png
+      left: -31
+      top: -89
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/16.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/15.png
+      left: -31
+      top: -31
+- sprites:
+  - alwaysDraw: true
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/18.png
+      left: -31
+      top: 0
+  - alwaysDraw: false
+    drawType: recolour
+    sprite:
+      filename: industries/blacksmith/17.png
+      left: -31
+      top: -89
+type: secondary

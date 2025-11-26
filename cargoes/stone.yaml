@@ -1,16 +1,16 @@
-abbreviation: GR
+abbreviation: TN
 available: true
-classes: 2576
-colour: 1
-id: 7
-label: GRAN
-longName: grain
-name: Grain
+classes: 16
+colour: 6
+id: 15
+label: STNE
+longName: stone
+name: Stone
 penaltyLength: 255
 penaltyLowerBound: 0
 price: 4112
 sprite:
-  filename: cargoes/grain.png
+  filename: cargoes/stone.png
   left: 0
   top: 0
 unitName: Tonnes
