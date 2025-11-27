@@ -43,7 +43,7 @@ layout:
     - 3
     - 8
 name: Blacksmith
-placement: anywhere
+placement: near-town
 probabilityInGame: 0
 probabilityMapGen: 5
 prospectChance: 0
