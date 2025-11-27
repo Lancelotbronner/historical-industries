@@ -8,7 +8,7 @@ fundCostMultiplier: 15
 id: 15
 layout:
 - - - 0
-name: General Store
+name: Market
 placement: in-town
 probabilityInGame: 12
 probabilityMapGen: 24
@@ -18,13 +18,13 @@ tiles:
   - alwaysDraw: true
     drawType: recolour
     sprite:
-      filename: industries/general-store/2.png
+      filename: industries/market/2.png
       left: -31
       top: 0
   - alwaysDraw: false
     drawType: recolour
     sprite:
-      filename: industries/general-store/1.png
+      filename: industries/market/1.png
       left: -31
       top: -18
 type: tertiary
